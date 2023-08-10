@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![apinee's GitHub | Stats](https://stats.quine.sh/apinee/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=apinee)
+
+[![apinee's GitHub | Languages Over Time](https://stats.quine.sh/apinee/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=apinee)
+
+
+[![apinee's GitHub | Topics Over Time](https://stats.quine.sh/apinee/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=apinee)
