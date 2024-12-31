@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=apinee" alt="apinee" /></a> </p>
 
-- 🔭 I’m currently working on **BSV data**
+- 🔭 I’m currently working on **loanp rediction**
 
 - 📝 I regularly write articles on [https://medium.com/@jhaapoorva31](https://medium.com/@jhaapoorva31)
 
